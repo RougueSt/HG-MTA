@@ -1,0 +1,6 @@
+<meta>
+  <info author="Rougue" type="script" name="inventario"/>
+  <min_mta_version client="1.5.7-9.19626"/>
+  <script src="c_inventario.lua" type="client" cache="false"/>
+  <script src="s_inventario.lua" type="server"/>
+</meta>

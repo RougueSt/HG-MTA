@@ -1,0 +1,5 @@
+<meta>
+	<!-- Auto generated using VSCode MTA:SA Lua by Subtixx -->
+	<info author="St'Rougue" type="script" name="gz-eventoBait" version="1.0" description="Ideia para baitar wallhack com carros invisiveis escondidos" />
+	<script src="s_CarroEscondido.lua" type="server" />
+</meta>
