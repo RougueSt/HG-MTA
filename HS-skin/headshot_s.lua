@@ -11,7 +11,7 @@ function MakePlayerHeadshot( attacker, weapon, bodypart, loss )
 		end
 	end
 end
---HEADSHOT SCHEME
+
 function MakeHeadshot( source, attacker, weapon, loss )
 	triggerEvent( "onPlayerHeadshot", source, attacker, weapon, loss )
 	killPed( source, attacker, weapon, 9 )
